@@ -9,6 +9,13 @@
 - 🌱 Atualmente estou aprendendo React 
 - 💬 Pergunte-me sobre **HTML, CSS, Javascript**
 
+<br/>
+
+## Contato
+<a href="https://www.linkedin.com/in/felipe-paiva85/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="React" align="center"/></a>
+
+<br/>
+
 ## Tecnologias que eu uso no meu dia
 <div>
   <br/>
@@ -53,7 +60,7 @@
     <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=felipeppaiva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -61,18 +68,11 @@
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeppaiva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <br/>
 
-## Contato
-<a href="https://www.linkedin.com/in/felipe-paiva85/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="React" align="center"/></a>
+
