@@ -71,7 +71,14 @@
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeppaiva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<img  align="left" alt="GitHub Stats"  height='170'  src="https://github-readme-streak-stats.herokuapp.com/?user=felipeppaiva&theme=react&hide_border=true" /> 
+  <div padding-bottom="20px">
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height='170'
+    src="https://github-readme-streak-stats.herokuapp.com/?user=felipeppaiva&theme=react&hide_border=true"
+  /> 
+  </div>
 </p>
 
 <br/>
